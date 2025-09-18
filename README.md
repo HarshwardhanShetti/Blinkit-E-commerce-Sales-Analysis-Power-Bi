@@ -18,7 +18,7 @@ This dashboard provides a detailed look at the customer base, focusing on demogr
 
 This page is dedicated to analyzing sales trends and product performance. It identifies top-selling products, analyzes sales by category, and provides insights into customer spending habits. The dashboard helps to identify revenue drivers and optimize product offerings.
 
-![Sales and Customer Insights Dashboard](Sales&Customer_Insights_Dashboard.png)
+![Sales and Customer Insights Dashboard](Sales&Customer_Insights.png)
 
 #### **3. Delivery & Marketing Dashboard**
 
