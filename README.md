@@ -18,13 +18,13 @@ This dashboard provides a detailed look at the customer base, focusing on demogr
 
 This page is dedicated to analyzing sales trends and product performance. It identifies top-selling products, analyzes sales by category, and provides insights into customer spending habits. The dashboard helps to identify revenue drivers and optimize product offerings.
 
-![Sales and Customer Insights Dashboard](Sales_&_Customer_Insights_Dashboard.png)
+![Sales and Customer Insights Dashboard](Sales&Customer_Insights_Dashboard.png)
 
 #### **3. Delivery & Marketing Dashboard**
 
 This final dashboard monitors the efficiency of delivery operations and the effectiveness of marketing campaigns. It includes KPIs on on-time delivery rates, analyzes common reasons for delays, and provides a clear view of marketing ROI and conversions by channel. This helps the business optimize its logistics and marketing spend.
 
-![Delivery and Marketing Dashboard](Delivery&Marketing_Dashboard.png)
+![Delivery and Marketing Dashboard](Delivery_&_Marketing_Dashboard.png)
 
 ---
 
